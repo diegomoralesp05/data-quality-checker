@@ -1,0 +1,8 @@
+id,nombre,edad,email,fecha_registro
+1,Ana,25,ana@email.com,2024-01-15
+2,Juan,,juan@email.com,2024-03-20
+3,,35,maria@email.com,
+4,Pedro,40,,2024-02-10
+5,Lucía,31,lucia@email.com,2024-05-01
+6,Juan,29,juan@email.com,2024-03-20
+7,pepacho,78,pepecho@email.com,2024-04-15

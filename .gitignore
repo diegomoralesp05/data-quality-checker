@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos de logs y outputs
+output/
+*.log
+
+# Archivos temporales de VSCode
+.vscode/
+__pycache__/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
